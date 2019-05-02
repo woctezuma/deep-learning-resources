@@ -1,6 +1,6 @@
 # Deep Learning Resources
 
-Books, courses and videos, mostly about Deep Learning.
+Books, courses, videos and blogs, mostly about Deep Learning.
 
 ## Books
 
