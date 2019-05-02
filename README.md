@@ -44,3 +44,9 @@ Instructors:
 Fei-Fei Li: http://vision.stanford.edu/feifeili/ 
 Justin Johnson: http://cs.stanford.edu/people/jcjohns/ 
 Serena Yeung: http://ai.stanford.edu/~syyeung/
+
+## Blogs
+
+-   [Distill](https://distill.pub/).
+
+> Distill is an academic journal in the area of Machine Learning. The distinguishing trait of a Distill article is outstanding communication and a dedication to human understanding. Distill articles often, but not always, use interactive media.
