@@ -12,7 +12,24 @@ Books, courses, videos and blogs, mostly about Deep Learning.
 
 > Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.
 
+-   [Stevens, Eli, Luca Antiga, and Thomas Viehmann. Deep Learning with PyTorch. Manning Publications, 2020](https://www.manning.com/books/deep-learning-with-pytorch)
+
+>  Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. This book takes you into a fascinating case study: building an algorithm capable of detecting malignant lung tumors using CT scans. As the authors guide you through this real example, you'll discover just how effective and fun PyTorch can be. After a quick introduction to the deep learning landscape, you'll explore the use of pre-trained networks and start sharpening your skills on working with tensors. You'll find out how to represent the most common types of data with tensors and how to build and train neural networks from scratch on practical examples, focusing on images and sequences.
+
+-   [Ng, Andrew. Machine Learning Yearning. 2018.](https://github.com/ajaymache/machine-learning-yearning)
+
+> AI is transforming numerous industries. Machine Learning Yearning, a free ebook from Andrew Ng, teaches you how to structure Machine Learning projects.
+This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work.
+
 ## Courses
+
+-   [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+>  MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
+
+-   [INFO8010: Deep Learning](https://github.com/glouppe/info8010-deep-learning)
+
+> Lectures by Gilles Louppe, researcher in AI and contributor to sci-kit learn, at ULiège.
 
 -   [CS228: Probabilistic Graphical Models](https://ermongroup.github.io/cs228-notes/),
 
@@ -31,6 +48,10 @@ Books, courses, videos and blogs, mostly about Deep Learning.
 >  Natural language processing (NLP) is one of the most important technologies of the information age, and a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, medical reports, etc. In recent years, Deep Learning approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models. This year, CS224n will be taught for the first time using PyTorch rather than TensorFlow (as in previous years). 
 
 ## Videos
+
+-   [MIT 6.S191: Introduction to Deep Learning. MIT, 2020](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
+
+>  MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
 
 -   [Introduction to reinforcement learning. University College London, 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ),
 
