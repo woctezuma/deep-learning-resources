@@ -21,6 +21,10 @@ Books, courses, videos and blogs, mostly about Deep Learning.
 > AI is transforming numerous industries. Machine Learning Yearning, a free ebook from Andrew Ng, teaches you how to structure Machine Learning projects.
 This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work.
 
+-   [Howard, Jeremy, and Sylvain Gugger. FastAI's Jupyter notebooks. 2020](https://github.com/fastai/fastbook)
+
+> These notebooks cover an introduction to deep learning, fastai, and PyTorch.
+
 ## Courses
 
 -   [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
