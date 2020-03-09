@@ -35,7 +35,7 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > Lectures by Gilles Louppe, researcher in AI and contributor to sci-kit learn, at ULiège.
 
--   [INFO8006 - Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai)
+-   [INFO8006: Introduction to Artificial Intelligence](https://github.com/glouppe/info8006-introduction-to-ai)
 
 > Lectures by Gilles Louppe, researcher in AI and contributor to sci-kit learn, at ULiège.
 
