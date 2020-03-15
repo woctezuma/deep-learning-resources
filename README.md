@@ -4,11 +4,11 @@ Books, courses, videos and blogs, mostly about Deep Learning.
 
 ## Books
 
--   [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016](https://www.deeplearningbook.org/),
+-   [[PDF]](https://github.com/janishar/mit-deep-learning-book-pdf) [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016](https://www.deeplearningbook.org/),    
 
 >  The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. 
 
--   [Chollet, Francois. Deep Learning with Python. Manning Publications, 2017](https://www.manning.com/books/deep-learning-with-python).
+-   [[PYNB]](https://github.com/fchollet/deep-learning-with-python-notebooks) [Chollet, Francois. Deep Learning with Python. Manning Publications, 2017](https://www.manning.com/books/deep-learning-with-python).    
 
 > Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.
 
