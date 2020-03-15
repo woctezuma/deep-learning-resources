@@ -27,13 +27,13 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 ## Courses
 
--   [Gabriel Peyré: Numerical Tours of Data Sciences](http://www.numerical-tours.com/python/)
+-   [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/),
 
->  The Numerical Tours of Data Sciences, by Gabriel Peyré, gather Python experiments to explore modern mathematical data sciences. They cover data sciences in a broad sense, including imaging, machine learning, computer vision and computer graphics. It showcases application of numerical and mathematical methods such as convex optimization, PDEs, optimal transport, inverse problems, sparsity, etc. The tours are complemented by slides of courses detailing the theory and the algorithms.
+> Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge. 
 
--   [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+-   [Google: Machine Learning Crash Course (and other courses)](https://developers.google.com/machine-learning/),
 
->  MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
+> A self-study guide for aspiring machine learning practitioners. Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. 
 
 -   [INFO8010: Deep Learning](https://github.com/glouppe/info8010-deep-learning)
 
@@ -43,23 +43,31 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > Lectures by Gilles Louppe, researcher in AI and contributor to sci-kit learn, at ULiège.
 
--   [CS228: Probabilistic Graphical Models](https://ermongroup.github.io/cs228-notes/),
+-   [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 
-> This course starts by introducing probabilistic graphical models from the very basics and concludes by explaining from first principles the variational auto-encoder, an important probabilistic model that is also one of the most influential recent results in deep learning.
-
--   [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/),
-
-> Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge. 
-
--   [Google: Machine Learning Crash Course (and other courses)](https://developers.google.com/machine-learning/),
-
-> A self-study guide for aspiring machine learning practitioners. Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. 
+>  MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
 
 -   [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/).
 
 >  Natural language processing (NLP) is one of the most important technologies of the information age, and a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, medical reports, etc. In recent years, Deep Learning approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models. This year, CS224n will be taught for the first time using PyTorch rather than TensorFlow (as in previous years). 
 
+-   [CS228: Probabilistic Graphical Models](https://ermongroup.github.io/cs228-notes/),
+
+> This course starts by introducing probabilistic graphical models from the very basics and concludes by explaining from first principles the variational auto-encoder, an important probabilistic model that is also one of the most influential recent results in deep learning.
+
+-   [Gabriel Peyré: Numerical Tours of Data Sciences](http://www.numerical-tours.com/python/)
+
+>  The Numerical Tours of Data Sciences, by Gabriel Peyré, gather Python experiments to explore modern mathematical data sciences. They cover data sciences in a broad sense, including imaging, machine learning, computer vision and computer graphics. It showcases application of numerical and mathematical methods such as convex optimization, PDEs, optimal transport, inverse problems, sparsity, etc. The tours are complemented by slides of courses detailing the theory and the algorithms.
+
 ## Videos
+
+-   [CS231n: Convolutional Neural Networks for Visual Recognition. Stanford University School of Engineering, 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv),
+
+> Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. From this lecture collection, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. 
+Instructors: 
+Fei-Fei Li: http://vision.stanford.edu/feifeili/ 
+Justin Johnson: http://cs.stanford.edu/people/jcjohns/ 
+Serena Yeung: http://ai.stanford.edu/~syyeung/
 
 -   [MIT 6.S191: Introduction to Deep Learning. MIT, 2020](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
 
@@ -77,14 +85,6 @@ For a powerful illustration of reinforcement learning in action, watch the Alpha
 > This course, taught originally at UCL and recorded for online access, has two interleaved parts that converge towards the end of the course. One part is on machine learning with deep neural networks, the other part is about prediction and control using reinforcement learning. The two strands come together when we discuss deep reinforcement learning, where deep neural networks are trained as function approximators in a reinforcement learning setting.
 The deep learning stream of the course will cover a short introduction to neural networks and supervised learning with TensorFlow, followed by lectures on convolutional neural networks, recurrent neural networks, end-to-end and energy-based learning, optimization methods, unsupervised learning as well as attention and memory. Possible applications areas to be discussed include object recognition and natural language processing.
 The reinforcement learning stream will cover Markov decision processes, planning by dynamic programming, model-free prediction and control, value function approximation, policy gradient methods, integration of learning and planning, and the exploration/exploitation dilemma. Possible applications to be discussed include learning to play classic board games as well as video games.
-
--   [CS231n: Convolutional Neural Networks for Visual Recognition. Stanford University School of Engineering, 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv),
-
-> Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. From this lecture collection, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. 
-Instructors: 
-Fei-Fei Li: http://vision.stanford.edu/feifeili/ 
-Justin Johnson: http://cs.stanford.edu/people/jcjohns/ 
-Serena Yeung: http://ai.stanford.edu/~syyeung/
 
 -   [[slides](http://www.iangoodfellow.com/slides/2018-07-24.pdf)] [Ian Goodfellow. Adversarial Machine Learning. Association for Computing Machinery (ACM), 2018](https://www.youtube.com/watch?v=3-qazNQS2JU),
 
