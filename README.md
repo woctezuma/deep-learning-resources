@@ -27,6 +27,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 ## Courses
 
+-   [Gabriel Peyré: Numerical Tours of Data Sciences](http://www.numerical-tours.com/python/)
+
+>  The Numerical Tours of Data Sciences, by Gabriel Peyré, gather Python experiments to explore modern mathematical data sciences. They cover data sciences in a broad sense, including imaging, machine learning, computer vision and computer graphics. It showcases application of numerical and mathematical methods such as convex optimization, PDEs, optimal transport, inverse problems, sparsity, etc. The tours are complemented by slides of courses detailing the theory and the algorithms.
+
 -   [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 >  MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
