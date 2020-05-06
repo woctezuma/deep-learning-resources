@@ -35,6 +35,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > A self-study guide for aspiring machine learning practitioners. Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. 
 
+-   [CS294-158-SP20: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/#h.p_0x8gJbwhqwC0)
+
+> Berkeley's course will cover two areas of deep learning in which labeled data is not required: Deep Generative Models and Self-supervised Learning. Recent advances in generative models have made it possible to realistically model high-dimensional raw data such as natural images, audio waveforms and text corpora. Strides in self-supervised learning have started to close the gap between supervised representation learning and unsupervised representation learning in terms of fine-tuning to unseen tasks. This course will cover the theoretical foundations of these topics as well as their newly enabled applications.
+
 -   [INFO8010: Deep Learning](https://github.com/glouppe/info8010-deep-learning)
 
 > Lectures by Gilles Louppe, researcher in AI and contributor to sci-kit learn, at ULiège.
