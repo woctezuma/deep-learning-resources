@@ -2,6 +2,12 @@
 
 Books, courses, videos and blogs, mostly about Deep Learning.
 
+## External resources
+
+- [DeepMind's AtHomeWithAI: Curated Resource List](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
+
+> A list of educational resources curated by DeepMind Scientists and Engineers for students interested in learning more about artifical intelligence, machine learning and other related topics.
+
 ## Books
 
 -   [[PDF]](https://github.com/janishar/mit-deep-learning-book-pdf) [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016](https://www.deeplearningbook.org/),    
