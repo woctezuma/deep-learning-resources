@@ -41,7 +41,7 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > A self-study guide for aspiring machine learning practitioners. Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. 
 
--   [Google: TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) [(and other TensorFlow courses)](https://codelabs.developers.google.com/?cat=TensorFlow),
+-   [Google: TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) ([and other TensorFlow courses](https://codelabs.developers.google.com/?cat=TensorFlow)),
 
 >  Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, Project Tango, and Google APIs on iOS. 
 
