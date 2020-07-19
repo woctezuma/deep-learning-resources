@@ -2,12 +2,6 @@
 
 Books, courses, videos and blogs, mostly about Deep Learning.
 
-## External resources
-
-- [DeepMind's AtHomeWithAI: Curated Resource List](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
-
-> A list of educational resources curated by DeepMind Scientists and Engineers for students interested in learning more about artifical intelligence, machine learning and other related topics.
-
 ## Books
 
 -   [[PDF]](https://github.com/janishar/mit-deep-learning-book-pdf) [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016](https://www.deeplearningbook.org/),    
@@ -18,14 +12,14 @@ Books, courses, videos and blogs, mostly about Deep Learning.
 
 > Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.
 
--   [Stevens, Eli, Luca Antiga, and Thomas Viehmann. Deep Learning with PyTorch. Manning Publications, 2020](https://www.manning.com/books/deep-learning-with-pytorch)
-
->  Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. This book takes you into a fascinating case study: building an algorithm capable of detecting malignant lung tumors using CT scans. As the authors guide you through this real example, you'll discover just how effective and fun PyTorch can be. After a quick introduction to the deep learning landscape, you'll explore the use of pre-trained networks and start sharpening your skills on working with tensors. You'll find out how to represent the most common types of data with tensors and how to build and train neural networks from scratch on practical examples, focusing on images and sequences.
-
 -   [Ng, Andrew. Machine Learning Yearning. 2018.](https://github.com/ajaymache/machine-learning-yearning)
 
 > AI is transforming numerous industries. Machine Learning Yearning, a free ebook from Andrew Ng, teaches you how to structure Machine Learning projects.
 This book is focused not on teaching you ML algorithms, but on how to make ML algorithms work.
+
+-   [Stevens, Eli, Luca Antiga, and Thomas Viehmann. Deep Learning with PyTorch. Manning Publications, 2020](https://www.manning.com/books/deep-learning-with-pytorch)
+
+>  Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. This book takes you into a fascinating case study: building an algorithm capable of detecting malignant lung tumors using CT scans. As the authors guide you through this real example, you'll discover just how effective and fun PyTorch can be. After a quick introduction to the deep learning landscape, you'll explore the use of pre-trained networks and start sharpening your skills on working with tensors. You'll find out how to represent the most common types of data with tensors and how to build and train neural networks from scratch on practical examples, focusing on images and sequences.
 
 -   [Howard, Jeremy, and Sylvain Gugger. FastAI's Jupyter notebooks. 2020](https://github.com/fastai/fastbook)
 
@@ -33,17 +27,17 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 ## Courses
 
--   [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/),
+-   [Google: TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) ([and other TensorFlow courses](https://codelabs.developers.google.com/?cat=TensorFlow)),
 
-> Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge. 
+>  Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, Project Tango, and Google APIs on iOS. 
 
 -   [Google: Machine Learning Crash Course (and other courses)](https://developers.google.com/machine-learning/),
 
 > A self-study guide for aspiring machine learning practitioners. Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. 
 
--   [Google: TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) ([and other TensorFlow courses](https://codelabs.developers.google.com/?cat=TensorFlow)),
+-   [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/),
 
->  Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, Project Tango, and Google APIs on iOS. 
+> Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge. 
 
 -   [CS294-158-SP20: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/#h.p_0x8gJbwhqwC0)
 
@@ -107,6 +101,12 @@ The reinforcement learning stream will cover Markov decision processes, planning
 -   [[slides](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)] [Ian Goodfellow. Generative Adversarial Networks. Neural Information Processing Systems (NIPS), 2016](https://www.youtube.com/watch?v=HGYYEUSm-0Q).
 
 > Generative adversarial networks (GANs) are a recently introduced class of generative models, designed to produce realistic samples. This tutorial is intended to be accessible to an audience who has no experience with GANs, and should prepare the audience to make original research contributions applying GANs or improving the core GAN algorithms. GANs are universal approximators of probability distributions. Such models generally have an intractable log-likelihood gradient, and require approximations such as Markov chain Monte Carlo or variational lower bounds to make learning feasible. GANs avoid using either of these classes of approximations. The learning process consists of a game between two adversaries: a generator network that attempts to produce realistic samples, and a discriminator network that attempts to identify whether samples originated from the training data or from the generative model. At the Nash equilibrium of this game, the generator network reproduces the data distribution exactly, and the discriminator network cannot distinguish samples from the model from training data. Both networks can be trained using stochastic gradient descent with exact gradients computed by maximum likelihood.
+
+## External resources
+
+- [DeepMind's AtHomeWithAI: Curated Resource List](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
+
+> A list of educational resources curated by DeepMind Scientists and Engineers for students interested in learning more about artifical intelligence, machine learning and other related topics.
 
 ## Blogs
 
