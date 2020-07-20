@@ -108,6 +108,10 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 > A list of educational resources curated by DeepMind Scientists and Engineers for students interested in learning more about artifical intelligence, machine learning and other related topics.
 
+-   [[WEB](https://challengedata.ens.fr/)] [Stéphane Mallat's "Challenge de données"](https://www.college-de-france.fr/site/stephane-mallat/Challenge-de-donnees.htm)
+
+> We organize challenges of data sciences from data provided by public services, companies and laboratorie. This website is managed by the Data team of the École Normale Supérieure of Paris in partnership with the Collège de France. It is supported by the CFM chair and the PRAIRIE Institute. 
+
 ## Blogs
 
 -   [Distill](https://distill.pub/).
