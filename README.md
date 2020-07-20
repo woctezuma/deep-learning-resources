@@ -113,3 +113,11 @@ The reinforcement learning stream will cover Markov decision processes, planning
 -   [Distill](https://distill.pub/).
 
 > Distill is an academic journal in the area of Machine Learning. The distinguishing trait of a Distill article is outstanding communication and a dedication to human understanding. Distill articles often, but not always, use interactive media.
+
+-   [OpenAI](https://openai.com/blog/).
+
+> OpenAI is an AI research and deployment company based in San Francisco, California.
+
+-   [Gwern](https://www.gwern.net/tags/NN).
+
+> This is the website of Gwern Branwen. I write about psychology, statistics, and technology; I am best known for work on the darknet markets & Bitcoin, blinded self-experiments & Quantified Self analyses, dual n-back & spaced repetition, and modafinil.
