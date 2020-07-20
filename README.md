@@ -31,6 +31,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 >  Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, Project Tango, and Google APIs on iOS. 
 
+-   [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+> A tutorial about PyTorch, by Soumith Chintala (Facebook AI Research).
+
 -   [Google: Machine Learning Crash Course (and other courses)](https://developers.google.com/machine-learning/),
 
 > A self-study guide for aspiring machine learning practitioners. Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises. 
