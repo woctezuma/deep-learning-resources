@@ -31,6 +31,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 ## Courses
 
+-   [Data Flowr 🌻: a Bayesian deep learning course][data-flowr-x-ens], by Marc Lelarge & Jill-Jênn Vie (X-ENS)
+
+> This site collects resources to learn Deep Learning in the form of Modules available through the sidebar on the left. As a student, you can walk through the modules at your own pace and interact with others thanks to the associated digital platforms. Then we hope you'll become a contributor by adding modules to this site!
+
 -   [Google: TensorFlow, Keras and deep learning, without a PhD][google-introductory-course] ([and other TensorFlow courses][google-tensorflow-courses])
 
 >  Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, Project Tango, and Google APIs on iOS. 
@@ -76,6 +80,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 >  The Numerical Tours of Data Sciences, by Gabriel Peyré, gather Python experiments to explore modern mathematical data sciences. They cover data sciences in a broad sense, including imaging, machine learning, computer vision and computer graphics. It showcases application of numerical and mathematical methods such as convex optimization, PDEs, optimal transport, inverse problems, sparsity, etc. The tours are complemented by slides of courses detailing the theory and the algorithms.
 
 ## Videos
+
+-   [Data Flowr 🌻 on Youtube][data-flowr-videos]
+
+> Videos about deep learning. Please visit https://www.dataflowr.com/ for more material. 
 
 -   [CS231n: Convolutional Neural Networks for Visual Recognition. Stanford University School of Engineering, 2017][cs231n-video]
 
@@ -145,6 +153,7 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pytorch-book]: <https://www.manning.com/books/deep-learning-with-pytorch>
 [fastai-book]: <https://github.com/fastai/fastbook>
 
+[data-flowr-x-ens]: <https://www.dataflowr.com/>
 [google-introductory-course]: <https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
 [google-tensorflow-courses]: <https://codelabs.developers.google.com/?cat=TensorFlow>
 [pytorch-introductory-course]: <https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>
@@ -158,6 +167,7 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [cs228-course]: <https://ermongroup.github.io/cs228-notes/>
 [peyre-course]: <http://www.numerical-tours.com/python/>
 
+[data-flowr-videos]: <https://www.youtube.com/channel/UCooNXm7hUIKnFn4oLvYXotQ/videos>
 [cs231n-video]: <https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv>
 [s191-video]: <https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1>
 [ucl-rl-intro-video]: <https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ>
