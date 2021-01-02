@@ -8,6 +8,10 @@
 
 ## Books
 
+-   [[PDF][pml-book1-pdf]] [[PYNB][pml-book1-pynb]] [Kevin Patrick Murphy. Probabilistic Machine Learning: An Introduction. MIT Press. 2021][pml-book1-html]
+
+>   A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach.
+
 -   [[PDF][dl-book-pdf]] [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016][dl-book]
 
 >  The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. 
@@ -152,6 +156,9 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pytorch-book-pdf]: <https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf>
 [pytorch-book]: <https://www.manning.com/books/deep-learning-with-pytorch>
 [fastai-book]: <https://github.com/fastai/fastbook>
+[pml-book1-pdf]: <https://github.com/probml/pml-book/releases/latest/download/pml1.pdf>
+[pml-book1-html]: <https://probml.github.io/pml-book/book1.html>
+[pml-book1-pynb]: <https://github.com/probml/pyprobml/tree/master/book1#probabilistic-machine-learning-an-introduction>
 
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
 [google-introductory-course]: <https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
