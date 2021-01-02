@@ -10,7 +10,7 @@
 
 -   [[PDF][pml-book1-pdf]] [[PYNB][pml-book1-pynb]] [Kevin Patrick Murphy. Probabilistic Machine Learning: An Introduction. MIT Press. 2021][pml-book1-html]
 
->   A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach.
+>   A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach. All the books are listed at http://mlbayes.ai
 
 -   [[PDF][dl-book-pdf]] [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016][dl-book]
 
