@@ -39,6 +39,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > This site collects resources to learn Deep Learning in the form of Modules available through the sidebar on the left. As a student, you can walk through the modules at your own pace and interact with others thanks to the associated digital platforms. Then we hope you'll become a contributor by adding modules to this site!
 
+-   [DS-GA 1008: Deep Learning (with PyTorch)][nyu-course], by Yann LeCun & Alfredo Canziani (New York University) [Github][nyu-github-repo]
+
+> This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
+
 -   [Google: TensorFlow, Keras and deep learning, without a PhD][google-introductory-course] ([and other TensorFlow courses][google-tensorflow-courses])
 
 >  Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, Project Tango, and Google APIs on iOS. 
@@ -161,6 +165,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pml-book1-pynb]: <https://github.com/probml/pyprobml/tree/master/book1#probabilistic-machine-learning-an-introduction>
 
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
+[nyu-course]: <https://cds.nyu.edu/deep-learning/>
+[nyu-github-repo]: <https://github.com/Atcold/pytorch-Deep-Learning>
 [google-introductory-course]: <https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
 [google-tensorflow-courses]: <https://codelabs.developers.google.com/?cat=TensorFlow>
 [pytorch-introductory-course]: <https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html>
