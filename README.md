@@ -33,6 +33,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > These notebooks cover an introduction to deep learning, fastai, and PyTorch.
 
+-   [[PDF][gpml-pdf]] [Rasmussen, CE and Williams, CKI. Gaussian Processes for Machine Learning. MIT press, 2006][gpml-book]
+
+>  Gaussian processes (GPs) provide a principled, practical, probabilistic approach to learning in kernel machines. GPs have received increased attention in the machine-learning community over the past decade, and this book provides a long-needed systematic and unified treatment of theoretical and practical aspects of GPs in machine learning. The treatment is comprehensive and self-contained, targeted at researchers and students in machine learning and applied statistics.
+
 ## Courses
 
 -   [Data Flowr 🌻: a Bayesian deep learning course][data-flowr-x-ens], by Marc Lelarge & Jill-Jênn Vie (X-ENS)
@@ -163,6 +167,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pml-book1-pdf]: <https://github.com/probml/pml-book/releases/latest/download/pml1.pdf>
 [pml-book1-html]: <https://probml.github.io/pml-book/book1.html>
 [pml-book1-pynb]: <https://github.com/probml/pyprobml/tree/master/book1#probabilistic-machine-learning-an-introduction>
+[gpml-book]: <http://www.gaussianprocess.org/gpml/chapters/>
+[gpml-pdf]: <http://www.gaussianprocess.org/gpml/chapters/RW.pdf>
 
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
 [nyu-course]: <https://cds.nyu.edu/deep-learning/>
