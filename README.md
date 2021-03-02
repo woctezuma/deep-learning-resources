@@ -146,6 +146,10 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 > Distill is an academic journal in the area of Machine Learning. The distinguishing trait of a Distill article is outstanding communication and a dedication to human understanding. Distill articles often, but not always, use interactive media.
 
+-   [Francis Bach's blog posts][bach-blog]
+
+> Francis Bach is a researcher at INRIA in the Computer Science department of Ecole Normale Supérieure, in Paris, France. He has been working on machine learning since 2000, with a focus on algorithmic and theoretical contributions, in particular in optimization.
+
 -   [OpenAI][openai-blog]
 
 > OpenAI is an AI research and deployment company based in San Francisco, California.
@@ -203,3 +207,4 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [distill-blog]: <https://distill.pub/>
 [openai-blog]: <https://openai.com/blog/>
 [gwern-blog]: <https://www.gwern.net/tags/NN>
+[bach-blog]: <https://francisbach.com/>
