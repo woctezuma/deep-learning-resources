@@ -43,6 +43,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > This site collects resources to learn Deep Learning in the form of Modules available through the sidebar on the left. As a student, you can walk through the modules at your own pace and interact with others thanks to the associated digital platforms. Then we hope you'll become a contributor by adding modules to this site!
 
+-   [UC Berkeley: Full-Stack Deep Learning][fullstackdeeplearning]
+
+> There are many great courses to learn how to train deep neural networks. However, training the model is just one part of shipping a deep learning project. This course teaches full-stack production deep learning:
+
 -   [DS-GA 1008: Deep Learning (with PyTorch)][nyu-course], by Yann LeCun & Alfredo Canziani (New York University) [Github][nyu-github-repo]
 
 > This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
@@ -175,6 +179,7 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [gpml-pdf]: <http://www.gaussianprocess.org/gpml/chapters/RW.pdf>
 
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
+[fullstackdeeplearning]: <https://fullstackdeeplearning.com/>
 [nyu-course]: <https://cds.nyu.edu/deep-learning/>
 [nyu-github-repo]: <https://github.com/Atcold/pytorch-Deep-Learning>
 [google-introductory-course]: <https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/>
