@@ -8,6 +8,12 @@
 
 ## Books
 
+-   [[PDF][bach-book-pdf]] [Francis Bach. Learning Theory from First Principles. 2021][bach-book-html]
+
+>   This draft textbook is extracted from lecture notes from a class taught online during Fall 2020, with an extra pass during Spring 2021.
+The goal is to present old and recent results in learning theory, for the most widely-used learning architectures.
+This class is geared towards theory-oriented students or students who want to acquire a basic mathematical understanding of machine learning algorithms.
+
 -   [[PDF][pml-book1-pdf]] [[PYNB][pml-book1-pynb]] [Kevin Patrick Murphy. Probabilistic Machine Learning: An Introduction. MIT Press. 2021][pml-book1-html]
 
 >   A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach. All the books are listed at http://mlbayes.ai
@@ -164,6 +170,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 <!-- Definitions -->
 
+[bach-book-pdf]: <https://www.di.ens.fr/~fbach/ltfp_book.pdf>
+[bach-book-html]: <https://francisbach.com/i-am-writing-a-book/>
 [dl-book-pdf]: <https://github.com/janishar/mit-deep-learning-book-pdf>
 [dl-book]: <https://www.deeplearningbook.org/>
 [chollet-book-ipynb]: <https://github.com/fchollet/deep-learning-with-python-notebooks>
