@@ -166,6 +166,10 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 > Francis Bach is a researcher at INRIA in the Computer Science department of Ecole Normale Supérieure, in Paris, France. He has been working on machine learning since 2000, with a focus on algorithmic and theoretical contributions, in particular in optimization.
 
+-   [Facebook][facebook-blog]
+
+> Facebook is an American multinational technology conglomerate based in Menlo Park, California.
+
 -   [OpenAI][openai-blog]
 
 > OpenAI is an AI research and deployment company based in San Francisco, California.
@@ -225,6 +229,7 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [ens-external-resource]: <https://challengedata.ens.fr/>
 [cdf-external-resource]: <https://www.college-de-france.fr/site/stephane-mallat/Challenge-de-donnees.htm>
 
+[facebook-blog]: <https://ai.facebook.com/blog/>
 [distill-blog]: <https://distill.pub/>
 [openai-blog]: <https://openai.com/blog/>
 [gwern-blog]: <https://www.gwern.net/tags/NN>
