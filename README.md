@@ -8,6 +8,12 @@
 
 ## Books
 
+-   [[PDF][pdlt-book-pdf]] [Dan Roberts & Sho Yaida. The Principles of Deep Learning Theory. 2021][pdlt-book-html]
+
+>   "The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks" is a collaboration between Sho Yaida of Facebook AI Research, Dan Roberts of MIT and Salesforce, and Boris Hanin at Princeton.
+At a fundamental level, the book provides a theoretical framework for understanding DNNs from first principles.
+This book will be published by Cambridge University Press in early 2022 and the manuscript is now publicly available. 
+
 -   [[PDF][bach-book-pdf]] [Francis Bach. Learning Theory from First Principles. 2021][bach-book-html]
 
 >   This draft textbook is extracted from lecture notes from a class taught online during Fall 2020, with an extra pass during Spring 2021.
@@ -170,6 +176,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 <!-- Definitions -->
 
+[pdlt-book-pdf]: <https://deeplearningtheory.com/PDLT.pdf>
+[pdlt-book-html]: <https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/>
 [bach-book-pdf]: <https://www.di.ens.fr/~fbach/ltfp_book.pdf>
 [bach-book-html]: <https://francisbach.com/i-am-writing-a-book/>
 [dl-book-pdf]: <https://github.com/janishar/mit-deep-learning-book-pdf>
