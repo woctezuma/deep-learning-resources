@@ -20,6 +20,11 @@ This book will be published by Cambridge University Press in early 2022 and the 
 The goal is to present old and recent results in learning theory, for the most widely-used learning architectures.
 This class is geared towards theory-oriented students or students who want to acquire a basic mathematical understanding of machine learning algorithms.
 
+-   [[PDF][dl-interviews-pdf]] [Shlomo Kashani & Amir Ivry. Deep Learning Interviews. 2021][dl-interviews-github]
+
+>   Hundreds of fully-solved problems, designed to provide an overview of the field of AI, and rehearse interview topics. Available at
+https://www.interviews.ai/
+
 -   [[PDF][pml-book1-pdf]] [[PYNB][pml-book1-pynb]] [Kevin Patrick Murphy. Probabilistic Machine Learning: An Introduction. MIT Press. 2021][pml-book1-html]
 
 >   A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach. All the books are listed at http://mlbayes.ai
@@ -184,6 +189,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pdlt-book-html]: <https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/>
 [bach-book-pdf]: <https://www.di.ens.fr/~fbach/ltfp_book.pdf>
 [bach-book-html]: <https://francisbach.com/i-am-writing-a-book/>
+[dl-interviews-pdf]: <https://arxiv.org/abs/2201.00650>
+[dl-interviews-github]: <https://github.com/BoltzmannEntropy/interviews.ai>
 [dl-book-pdf]: <https://github.com/janishar/mit-deep-learning-book-pdf>
 [dl-book]: <https://www.deeplearningbook.org/>
 [chollet-book-ipynb]: <https://github.com/fchollet/deep-learning-with-python-notebooks>
