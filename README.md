@@ -8,6 +8,10 @@
 
 ## Books
 
+-   [[PDF][ssl-book-pdf]] [Yann LeCun et al. A Cookbook of Self-Supervised Learning. 2023][ssl-book]
+
+>   Self-supervised learning, dubbed the dark matter of intelligence, is a promising path to advance machine learning. Yet, much like cooking, training SSL methods is a delicate art with a high barrier to entry. While many components are familiar, successfully training a SSL method involves a dizzying set of choices from the pretext tasks to training hyper-parameters. Our goal is to lower the barrier to entry into SSL research by laying the foundations and latest SSL recipes in the style of a cookbook. We hope to empower the curious researcher to navigate the terrain of methods, understand the role of the various knobs, and gain the know-how required to explore how delicious SSL can be. 
+
 -   [[PDF][pdlt-book-pdf]] [Dan Roberts & Sho Yaida. The Principles of Deep Learning Theory. 2021][pdlt-book-html]
 
 >   "The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks" is a collaboration between Sho Yaida of Facebook AI Research, Dan Roberts of MIT and Salesforce, and Boris Hanin at Princeton.
@@ -189,6 +193,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 <!-- Definitions -->
 
+[ssl-book]: <https://arxiv.org/abs/2304.12210>
+[ssl-book-pdf]: <https://arxiv.org/pdf/2304.12210.pdf>
 [pdlt-book-pdf]: <https://deeplearningtheory.com/PDLT.pdf>
 [pdlt-book-html]: <https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/>
 [bach-book-pdf]: <https://www.di.ens.fr/~fbach/ltfp_book.pdf>
