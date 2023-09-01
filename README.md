@@ -5,6 +5,7 @@
 3.   [Videos](https://github.com/woctezuma/deep-learning-resources#videos)
 4.   [External resources](https://github.com/woctezuma/deep-learning-resources#external-resources)
 5.   [Blogs](https://github.com/woctezuma/deep-learning-resources#blogs)
+5.   [Appendix: Python](https://github.com/woctezuma/deep-learning-resources#python)
 
 ## Books
 
@@ -191,6 +192,16 @@ The reinforcement learning stream will cover Markov decision processes, planning
 
 > This is the website of Gwern Branwen. I write about psychology, statistics, and technology; I am best known for work on the darknet markets & Bitcoin, blinded self-experiments & Quantified Self analyses, dual n-back & spaced repetition, and modafinil.
 
+## Python
+
+-   Greg Wilson's [*Software Design by Example*][python-software-design]
+
+> A tool-based introduction with Python.
+
+-   Henry Schreiner's [*Level Up Your Python*][python-level-up]
+
+> A course in intermediate Python for a beginner ready to move up.
+
 <!-- Definitions -->
 
 [ssl-book]: <https://arxiv.org/abs/2304.12210>
@@ -252,3 +263,6 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [openai-blog]: <https://openai.com/blog/>
 [gwern-blog]: <https://www.gwern.net/tags/NN>
 [bach-blog]: <https://francisbach.com/>
+
+[python-software-design]: <https://third-bit.com/sdxpy/>
+[python-level-up]: <https://henryiii.github.io/level-up-your-python/>
