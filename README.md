@@ -65,6 +65,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > This site collects resources to learn Deep Learning in the form of Modules available through the sidebar on the left. As a student, you can walk through the modules at your own pace and interact with others thanks to the associated digital platforms. Then we hope you'll become a contributor by adding modules to this site!
 
+-   [Institut Polytechnique de Paris: Deep Learning][m2dsupsdlclass], by Olivier Grisel & Charles Ollion [[PyTorch]][m2dsupsdlclass-pytorch]
+
+> The course covers the basics of Deep Learning, with a focus on applications.
+
 -   [Unige 14x050 / EPFL EE-559: Deep Learning][fleuret-course], by François Fleuret (University of Geneva)
 
 > This course is a thorough introduction to deep-learning, with examples in the PyTorch framework.
@@ -227,6 +231,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [gpml-pdf]: <http://www.gaussianprocess.org/gpml/chapters/RW.pdf>
 
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
+[m2dsupsdlclass]: <https://m2dsupsdlclass.github.io/lectures-labs/>
+[m2dsupsdlclass-pytorch]: <https://github.com/ogrisel/dlclass-pytorch>
 [fleuret-course]: <https://fleuret.org/dlc/>
 [fullstackdeeplearning]: <https://fullstackdeeplearning.com/>
 [nyu-course]: <https://cds.nyu.edu/deep-learning/>
