@@ -69,7 +69,7 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > The course covers the basics of Deep Learning, with a focus on applications.
 
--   [France Université Numérique (FUN): Machine learning in Python with `scikit-learn`.][scikit-learn-fun-mooc], by Olivier Grisel et al. (Inria) [[Website]][scikit-learn-web-mooc]
+-   [FUN: Machine learning in Python with `scikit-learn`.][scikit-learn-fun-mooc], by Olivier Grisel et al. (Inria) [[Website]][scikit-learn-web-mooc]
 
 >  Build predictive models with scikit-learn and gain a practical understanding of the strengths and limitations of machine learning!
 
