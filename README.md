@@ -72,6 +72,7 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 -   [FUN: Machine learning in Python with `scikit-learn`.][scikit-learn-fun-mooc], by Olivier Grisel et al. (Inria) [[Website]][scikit-learn-web-mooc]
 
 >  Build predictive models with scikit-learn and gain a practical understanding of the strengths and limitations of machine learning!
+Hosted by France Université Numérique (FUN).
 
 -   [Unige 14x050 / EPFL EE-559: Deep Learning][fleuret-course], by François Fleuret (University of Geneva)
 
