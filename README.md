@@ -69,6 +69,10 @@ This book is focused not on teaching you ML algorithms, but on how to make ML al
 
 > The course covers the basics of Deep Learning, with a focus on applications.
 
+-   [France Université Numérique (FUN): Machine learning in Python with `scikit-learn`.][scikit-learn-fun-mooc], by Olivier Grisel et al. (Inria) [[Website]][scikit-learn-web-mooc]
+
+>  Build predictive models with scikit-learn and gain a practical understanding of the strengths and limitations of machine learning!
+
 -   [Unige 14x050 / EPFL EE-559: Deep Learning][fleuret-course], by François Fleuret (University of Geneva)
 
 > This course is a thorough introduction to deep-learning, with examples in the PyTorch framework.
@@ -233,6 +237,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
 [m2dsupsdlclass]: <https://m2dsupsdlclass.github.io/lectures-labs/>
 [m2dsupsdlclass-pytorch]: <https://github.com/ogrisel/dlclass-pytorch>
+[scikit-learn-web-mooc]: <https://inria.github.io/scikit-learn-mooc/>
+[scikit-learn-fun-mooc]: <https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/>
 [fleuret-course]: <https://fleuret.org/dlc/>
 [fullstackdeeplearning]: <https://fullstackdeeplearning.com/>
 [nyu-course]: <https://cds.nyu.edu/deep-learning/>
