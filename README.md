@@ -13,6 +13,10 @@
 
 >   Self-supervised learning, dubbed the dark matter of intelligence, is a promising path to advance machine learning. Yet, much like cooking, training SSL methods is a delicate art with a high barrier to entry. While many components are familiar, successfully training a SSL method involves a dizzying set of choices from the pretext tasks to training hyper-parameters. Our goal is to lower the barrier to entry into SSL research by laying the foundations and latest SSL recipes in the style of a cookbook. We hope to empower the curious researcher to navigate the terrain of methods, understand the role of the various knobs, and gain the know-how required to explore how delicious SSL can be. 
 
+-   [[PDF][udl-book-pdf]] [Simon J. D. Prince. Understanding Deep Learning. 2023][udl-book]
+
+>   Deep Learning provides an authoritative, accessible, and up-to-date treatment of the subject, covering all the key topics along with recent advances and cutting-edge concepts. From machine learning basics to advanced models, each concept is presented in lay terms and then detailed precisely in mathematical form and illustrated visually. 
+
 -   [[PDF][pdlt-book-pdf]] [Dan Roberts & Sho Yaida. The Principles of Deep Learning Theory. 2021][pdlt-book-html]
 
 >   "The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks" is a collaboration between Sho Yaida of Facebook AI Research, Dan Roberts of MIT and Salesforce, and Boris Hanin at Princeton.
@@ -234,6 +238,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pml-book1-pynb]: <https://github.com/probml/pyprobml/tree/master/book1#probabilistic-machine-learning-an-introduction>
 [gpml-book]: <http://www.gaussianprocess.org/gpml/chapters/>
 [gpml-pdf]: <http://www.gaussianprocess.org/gpml/chapters/RW.pdf>
+[udl-book]: <https://udlbook.github.io/udlbook/>
+[udl-book-pdf]: <https://github.com/udlbook/udlbook/releases/download/v.4.0.4/UnderstandingDeepLearning_08_28_24_C.pdf>
 
 [data-flowr-x-ens]: <https://www.dataflowr.com/>
 [m2dsupsdlclass]: <https://m2dsupsdlclass.github.io/lectures-labs/>
