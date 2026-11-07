@@ -29,7 +29,7 @@ This book will be published by Cambridge University Press in early 2022 and the 
 The goal is to present old and recent results in learning theory, for the most widely-used learning architectures.
 This class is geared towards theory-oriented students or students who want to acquire a basic mathematical understanding of machine learning algorithms.
 
--   [[PDF][fleuret-book-pdf]] [François Fleuret. The Little Book of Deep Learning. 2024][fleuret-book-html]
+-   [[PDF][fleuret-book-pdf]] [François Fleuret. The Little Book of Deep Learning. 2023][fleuret-book-html]
 
 >   This book is a short introduction to deep learning for readers with a STEM background.
 It aims at providing the necessary background to understand landmark AI models for image generation and language understanding.
