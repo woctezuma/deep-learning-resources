@@ -29,6 +29,11 @@ This book will be published by Cambridge University Press in early 2022 and the 
 The goal is to present old and recent results in learning theory, for the most widely-used learning architectures.
 This class is geared towards theory-oriented students or students who want to acquire a basic mathematical understanding of machine learning algorithms.
 
+-   [[PDF][fleuret-book-pdf]] [François Fleuret. The Little Book of Deep Learning. 2024][fleuret-book-html]
+
+>   This book is a short introduction to deep learning for readers with a STEM background.
+It aims at providing the necessary background to understand landmark AI models for image generation and language understanding.
+
 -   [[PDF][tianhua-chen-pdf]] [Tianhua Chen. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer. 2026][tianhua-chen-html]
 
 >    This book provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative artificial intelligence. Rather than surveying every recent architecture or implementation detail, it develops a coherent route through the ideas connecting major families of generative models, from PCA, probabilistic PCA, variational autoencoders, and diffusion models to normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The aim is to make the structure of generative modelling more accessible without removing the mathematical substance needed to understand how these models are derived and related. The book is intended as a foundation-building primer for mathematically curious researchers, practitioners, and students. 
@@ -231,6 +236,8 @@ The reinforcement learning stream will cover Markov decision processes, planning
 [pdlt-book-html]: <https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/>
 [bach-book-pdf]: <https://www.di.ens.fr/~fbach/ltfp_book.pdf>
 [bach-book-html]: <https://francisbach.com/my-book-is-out/>
+[fleuret-book-pdf]: <https://fleuret.org/public/lbdl.pdf>
+[fleuret-book-html]: <https://fleuret.org/francois/lbdl.html>
 [tianhua-chen-pdf]: <https://arxiv.org/pdf/2605.29713>
 [tianhua-chen-html]: <https://arxiv.org/abs/2605.29713>
 [isola-book-html]: <https://visionbook.mit.edu/>
